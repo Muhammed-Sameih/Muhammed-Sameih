@@ -4,7 +4,7 @@ Muhammad </a></h1>
 
 <h6 align="left">Born to be King 👑</h6>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammed-Sameih&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed-Sameih" /> </p>
 
 
 <a target="_blank" align="center">
