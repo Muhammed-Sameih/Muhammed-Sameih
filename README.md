@@ -1,14 +1,15 @@
  <h1 align="center">Hi 👋, I'm <a href="https://github.com/Muhammed-Sameih" target="blank">
 Muhammad </a><p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=70&lines=Hello+Bro;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+skills"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=70&lines=Hello+Bro;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+skills"></a>
 </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px></picture>
 
 
 
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<p align="left"><h5 align="left">Born to be King 👑</h5> <img src="https://komarev.com/ghpvc/?username=Muhammed-Sameih&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed-Sameih" /> </p>
+<p align="left"><h5 align="left">Born to be King 👑</h5> 
+ 
+[![](https://visitcount.itsvg.in/api?id=Muhammed-Sameih&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -59,9 +60,10 @@ Muhammad </a><p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sameih&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammed-Sameih&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <br/>
+ 
 Credit: [Muhammad Sameih](https://github.com/Muhammed-Sameih)
 
 Last Edited on: 24/12/2022
