@@ -54,16 +54,17 @@ Muhammad </a><p align="center">
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Sameih&show_icons=true&locale=en&layout=compact" alt="Muhammed-Sameih" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Sameih&" alt="Muhammed-Sameih" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Sameih&show_icons=true&locale=en" alt="Muhammed-Sameih" /></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Sameih&show_icons=true&locale=en&layout=compact" alt="Muhammed-Sameih" /></p>
+
+ 
 ---
 
 
 <br/>
- 
+<p>
 Credit: [Muhammad Sameih](https://github.com/Muhammed-Sameih)
 
-Last Edited on: 24/12/2022
+ Last Edited on: 24/12/2022</p>
