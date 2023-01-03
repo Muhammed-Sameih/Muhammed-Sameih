@@ -58,9 +58,7 @@ Muhammad </a><p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Sameih&show_icons=true&locale=en&layout=compact" alt="Muhammed-Sameih" /></p>
  
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Sameih&show_icons=true&locale=en" alt="Muhammed-Sameih" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Sameih&" alt="Muhammed-Sameih" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Sameih&show_icons=true&locale=en" alt="Muhammed-Sameih" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Sameih&" alt="Muhammed-Sameih" /></p>
 
 ---
 
