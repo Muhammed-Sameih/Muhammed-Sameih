@@ -9,13 +9,8 @@ Muhammad </a><p align="center">
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <p align="left"><h5 align="left">Born to be King 👑</h5> 
  
-[![](https://visitcount.itsvg.in/api?id=Muhammed-Sameih&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 - 🌱 I’m currently Working on Web Backend (Django)
-
-- 🔭 I’m currently working  **Java Desktop Application**
 
 - 🌱 I’m currently learning Computer science
 
@@ -58,7 +53,7 @@ Muhammad </a><p align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Sameih&" alt="Muhammed-Sameih" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Sameih&show_icons=true&locale=en" alt="Muhammed-Sameih" /></p>
  
-
+[![](https://visitcount.itsvg.in/api?id=Muhammed-Sameih&icon=0&color=0)](https://visitcount.itsvg.in)
  
 ---
 
