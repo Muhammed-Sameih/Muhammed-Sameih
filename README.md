@@ -5,12 +5,9 @@ Muhammad </a><p align="center">
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px></picture>
 
 
-[![](https://visitcount.itsvg.in/api?id=Muhammed-Sameih&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <p align="left"><h5 align="left">Born to be King 👑</h5> 
  
-
 - 🌱 I’m currently Working on Web Backend (Django)
 
 - 🌱 I’m currently learning Computer science
@@ -18,8 +15,6 @@ Muhammad </a><p align="center">
 - 💬 Ask me about **java, C++, Python & Django**
 
 - 📫 How to reach me **muhamedsamih748@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sBoeYfIfqyN7M7kw3BkvL-4v-ntmPFA8/view?usp=sharing" target="blank">Resume</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
 
@@ -61,5 +56,3 @@ Muhammad </a><p align="center">
 <br/>
  
 Credit: [Muhammad Sameih](https://github.com/Muhammed-Sameih)
-
-Last Edited on: 3/1/2023
