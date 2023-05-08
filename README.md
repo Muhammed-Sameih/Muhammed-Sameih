@@ -5,7 +5,7 @@
  width = 250px></picture>
  </p>
  
-## <picture><img src = "" width = 50px></picture> **About me**
+## <picture><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></picture> **About me**
 <p align="left">                
 - 🌱 I’m currently Working on Web Backend (Django)     
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **muhamedsamih748@gmail.com**   
 <br/><br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Things I code with</b>
 <br/>
 
 <p align="left">
@@ -28,7 +28,7 @@
 
 <br/>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Where to find me..!</b>
 <br>
 <p align="left">
  <a href="https://twitter.com/Muhamma31992088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammed-Sameih" height="30" width="40" /></a>
