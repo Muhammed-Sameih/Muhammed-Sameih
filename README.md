@@ -4,19 +4,23 @@ Muhammad </a><p align="center">
 </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px></picture>
 
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<p align="left"><h5 align="left">Born to be King 👑</h5> 
  
-- 🌱 I’m currently Working on Web Backend (Django)
+<h5 align="center">Born to be King 👑</h5> 
+<p align ="center">
+<picture> <img  align ="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
+ width = 250px   ></picture>
+ </p>
+ 
+## <picture><img src = "" width = 50px></picture> **About me**
+<p align="left">                
+- 🌱 I’m currently Working on Web Backend (Django)     
 
 - 🌱 I’m currently learning Computer science
 
 - 💬 Ask me about **java, C++, Python & Django**
 
-- 📫 How to reach me **muhamedsamih748@gmail.com**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
+- 📫 How to reach me **muhamedsamih748@gmail.com**   
+<br/><br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Skills</b>
 <br/>
