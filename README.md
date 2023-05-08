@@ -1,16 +1,14 @@
  <h1 align="center">Hi 👋, I'm <a href="https://github.com/Muhammed-Sameih" target="blank">
-Muhammad </a><p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=60&height=100&lines= orn;"></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=60&height=100&lines=to;"></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=60&height=100&lines=be;"></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=60&height=100&lines=King;"></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=60&height=100&lines=👑;"></a>
-</p>
-
+Muhammad </a>
 <p align ="center">
 <picture> <img  align ="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
- width = 250px   ></picture>
+ width = 250px></picture>
  </p>
+
+ <p align="center" >
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=60&height=100&lines=Born-to-be-King-👑;"></a>
+</p>
+
  
 ## <picture><img src = "" width = 50px></picture> **About me**
 <p align="left">                
