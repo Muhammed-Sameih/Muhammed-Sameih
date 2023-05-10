@@ -1,4 +1,4 @@
- <h1 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=600&height=100&lines=Hi👋,I'am,TheMOS;++;born-to-be-King-👑;"></a>
+ <h1 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=50&center=true&vCenter=true&width=600&height=100&lines=Hi👋,I'am-The-MOS;++;born-to-be-King-👑;"></a>
  </h1>
 <p align ="center">
 <picture> <img  align ="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
